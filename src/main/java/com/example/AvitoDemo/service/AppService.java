@@ -30,6 +30,7 @@ import java.util.stream.Collectors;
 @AllArgsConstructor
 
 public class AppService {
+    1
     @Autowired
     private final UserRepository userRepository;
     @Autowired
